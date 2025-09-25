@@ -34,16 +34,14 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Gemini](https://gemini.google.com/app)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Audio gerado pela elevenLabs (narração e fundo)
+- Gemini para gerar capas
 
 ## 🛠️ Instruções de execução realizadas
 
@@ -52,4 +50,4 @@ Para seguir o passo a passo abaixo, os prompts dentro do `Notion` fornecido fora
 - 🤖 1. Edição do README para se adequar ao projeto realizado
 - 🤖 2. Envio de prompts para criar um roteiro pelo `chagpt`
 - 🤖 3. Envio de prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 4. Envio de prompts de artes ao `midjourney`
+- 🤖 4. Envio de prompts de artes ao `Gemini`
