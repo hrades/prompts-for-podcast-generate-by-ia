@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/PydeCast-Episodio 1 - Gemini.png"
     width="300"
 />
 </p>
